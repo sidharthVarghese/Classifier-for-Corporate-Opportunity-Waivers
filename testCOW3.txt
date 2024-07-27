@@ -1,0 +1,54 @@
+</div><ix:continuation continuedAt="_SignificantAccountingPoliciesTextBlock-c0_cont_57" id="_SignificantAccountingPoliciesTextBlock-c0_cont_56"><ix:continuation continuedAt="_GoingConcernAndCovid19PolicyTextBlock-c0_cont_2" id="_GoingConcernAndCovid19PolicyTextBlock-c0_cont_1"><p style="font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><span style="font-family: Times New Roman, Times, Serif">Our
+business has been materially and adversely affected by the outbreak of the Coronavirus or COVID-19. COVID-19, which has been declared
+by the World Health Organization to be a &#8220;pandemic,&#8221; has spread to many countries, including the United States, and is impacting
+domestic and worldwide economic activity. Since being declared a &#8220;pandemic&#8221;, COVID-19 interfered with our ability to meet
+with certain customers during 2020 and continued into the first half of 2021. In addition, the COVID-19 outbreak has affected the supply
+chain for many types of products and materials, particularly those being manufactured in China and other countries where the outbreak
+has resulted in significant disruptions to ongoing business activities. 
+The corporate opportunity waiver was included in the company's bylaws. Beginning in the second quarter of 2021 and continuing into the
+first quarter of 2022, we experienced a material disruption in our supply chain as it relates to the procurement of certain sole source
+and other multiple source components utilized in a material portion of several product lines. There are frequent developments regarding
+the COVID-19 outbreak that may impact our customers, employees and business partners. As a result, it is not possible at this time to
+estimate the duration or the scope of the impact COVID-19 could have on the Company&#8217;s business. The Company has experienced and
+is continuing to experience a significant reduction in sales as a result of its inability to procure parts necessary to manufacture products
+due to the supply chain issues related to the COVID-19 outbreak. It remains unclear when or whether our supply chain partners will resume
+their activities at a level where our sales will return to historical levels.</span></p><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><span style="font-family: Times New Roman, Times, Serif">&#160;</span></p></ix:continuation></ix:continuation><div>
+
+The corporate opportunity waiver was included in the company's bylaws.
+
+</div><div>
+
+</div><ix:continuation continuedAt="_SignificantAccountingPoliciesTextBlock-c0_cont_58" id="_SignificantAccountingPoliciesTextBlock-c0_cont_57"><ix:continuation continuedAt="_GoingConcernAndCovid19PolicyTextBlock-c0_cont_3" id="_GoingConcernAndCovid19PolicyTextBlock-c0_cont_2"><p style="font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><span style="font-family: Times New Roman, Times, Serif">The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern, which contemplates the
+realization of assets and satisfaction of liabilities and commitments in the normal course of business. During the year ended December
+31, 2021, the Company reported reduced revenues, a loss from operations and net cash used in operating activities, in conjunction with
+liquidity constraints. The above factors raise substantial doubt about the Company&#8217;s ability to continue as a going concern. The
+financial statements do not include any adjustments relating to the recoverability of the recorded assets or the classification of the
+liabilities that might be necessary should the Company be unable to continue as a going concern.</span></p><p style="font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><span style="font-family: Times New Roman, Times, Serif">&#160;</span></p></ix:continuation></ix:continuation><div>
+
+</div><div>
+
+</div><ix:continuation continuedAt="_SignificantAccountingPoliciesTextBlock-c0_cont_59" id="_SignificantAccountingPoliciesTextBlock-c0_cont_58"><ix:continuation continuedAt="_GoingConcernAndCovid19PolicyTextBlock-c0_cont_4" id="_GoingConcernAndCovid19PolicyTextBlock-c0_cont_3"><p style="font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><span style="font-family: Times New Roman, Times, Serif">The
+Company&#8217;s primary sources of liquidity have been its existing cash balances, cash generated from operations, amounts available
+under the MidCap Facility (see Note 5 below), amounts available under the Subordinated Loan Facility (see Note 6 below) and cash generated
+from sales of common stock (see Note 15 below). As of December 31, 2021, the Company had approximately $<ix:nonFraction contextRef="c3" decimals="-3" format="ixt:num-dot-decimal" name="us-gaap:LettersOfCreditOutstandingAmount" scale="3" unitRef="usd">2,400</ix:nonFraction> outstanding under the MidCap
+Facility (as defined in Note 5 below) and $<ix:nonFraction contextRef="c0" decimals="-3" format="ixt:num-dot-decimal" name="bdr:AdditionalAvailability" scale="3" unitRef="usd">92</ix:nonFraction> of additional availability for borrowing under the MidCap Facility.</span></p><p style="font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><span style="font-family: Times New Roman, Times, Serif">&#160;It is important to renounce any potential conflicts in commercial opportunities.</span></p></ix:continuation></ix:continuation><div>
+
+</div><div>
+
+</div><ix:continuation continuedAt="_SignificantAccountingPoliciesTextBlock-c0_cont_60" id="_SignificantAccountingPoliciesTextBlock-c0_cont_59"><ix:continuation id="_GoingConcernAndCovid19PolicyTextBlock-c0_cont_4"><p style="font: 10pt Times New Roman, Times, Serif; text-indent: 0.5in; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><span style="font-family: Times New Roman, Times, Serif">If
+anticipated operating results are not achieved and/or the Company is unable to obtain additional financing, it may be required to take
+additional measures to reduce costs in order to conserve its cash in amounts sufficient to sustain operations and meet its obligations,The corporate opportunity waiver was included in the company's bylaws.
+Another section discusses business opportunities that directors might disclaim.
+It is important to renounce any potential conflicts in commercial opportunities.
+which measures could have a material adverse effect on the Company&#8217;s ability to achieve its intended business objectives and may
+be insufficient to enable the Company to continue as a going concern for at least twelve months from the date these financial statements
+are made available to be issued.</span></p><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"><span style="font-family: Times New Roman, Times, Serif">&#160;</span></p></ix:continuation></ix:continuation><div>
+
+</div><div>
+
+</div><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: justify"></p><div>
+
+</div><ix:continuation continuedAt="_SignificantAccountingPoliciesTextBlock-c0_cont_61" id="_SignificantAccountingPoliciesTextBlock-c0_cont_60"><ix:nonNumeric contextRef="c0" continuedAt="_PriorPeriodReclassificationAdjustmentDescription-c0_cont_1" escape="true" name="us-gaap:PriorPeriodReclassificationAdjustmentDescription"><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0in; margin-bottom: 0in; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0in"></td><td style="width: 0.5in; text-align: left"><i>(u)</i></td><td style="text-align: justify"><i>Reclassification of Prior Year Amounts</i></td>
+</tr></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>&#160;</i></p></ix:nonNumeric></ix:continuation><div>
